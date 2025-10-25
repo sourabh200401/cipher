@@ -25,7 +25,7 @@ Decryption simply reverses this shift.
 
 ⚙️ Installation & Usage
 1. Clone the repository
-git clone https://github.com/<your-username>/ciphercode.git
+git clone https://github.com/sourabh200401/cipher/ciphercode.git
 cd ciphercode
 
 2. Compile the program
